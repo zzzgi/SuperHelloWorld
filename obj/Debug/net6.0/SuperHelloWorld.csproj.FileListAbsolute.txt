@@ -1,0 +1,15 @@
+H:\project\SuperHelloWorld\SuperHelloWorld\bin\Debug\net6.0\SuperHelloWorld.exe
+H:\project\SuperHelloWorld\SuperHelloWorld\bin\Debug\net6.0\SuperHelloWorld.deps.json
+H:\project\SuperHelloWorld\SuperHelloWorld\bin\Debug\net6.0\SuperHelloWorld.runtimeconfig.json
+H:\project\SuperHelloWorld\SuperHelloWorld\bin\Debug\net6.0\SuperHelloWorld.dll
+H:\project\SuperHelloWorld\SuperHelloWorld\bin\Debug\net6.0\SuperHelloWorld.pdb
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\SuperHelloWorld.csproj.AssemblyReference.cache
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\SuperHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\SuperHelloWorld.AssemblyInfoInputs.cache
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\SuperHelloWorld.AssemblyInfo.cs
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\SuperHelloWorld.csproj.CoreCompileInputs.cache
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\SuperHelloWorld.dll
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\refint\SuperHelloWorld.dll
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\SuperHelloWorld.pdb
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\SuperHelloWorld.genruntimeconfig.cache
+H:\project\SuperHelloWorld\SuperHelloWorld\obj\Debug\net6.0\ref\SuperHelloWorld.dll
