@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\project\\SuperHelloWorld\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {}
+    "H:\\project\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {}
   },
   "projects": {
-    "H:\\project\\SuperHelloWorld\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {
+    "H:\\project\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\project\\SuperHelloWorld\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
+        "projectUniqueName": "H:\\project\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
         "projectName": "HelloWorldLibrary",
-        "projectPath": "H:\\project\\SuperHelloWorld\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
+        "projectPath": "H:\\project\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
         "packagesPath": "C:\\Users\\dt\\.nuget\\packages\\",
-        "outputPath": "H:\\project\\SuperHelloWorld\\SuperHelloWorld\\HelloWorldLibrary\\obj\\",
+        "outputPath": "H:\\project\\SuperHelloWorld\\HelloWorldLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"

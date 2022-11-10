@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/OaHHPcnNzsXtafnhTG+OvltztlozMQgkK6Nmkt8h04wq0y6Va9FEWtjy/UByDnWg/RoLBR695gyjyWYd2x6CQ==",
+  "dgSpecHash": "oVn1Un8LYd0yIuBaO7Pv8T+ZYUYnktzTvH2VC6yqbgJ/EKXcD0tF/LEU/13MQAa+jZXZeK/01u4htWl13Dj6VQ==",
   "success": true,
-  "projectFilePath": "H:\\project\\SuperHelloWorld\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
+  "projectFilePath": "H:\\project\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
