@@ -1,0 +1,13 @@
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\bin\Debug\net6.0\HelloWorldLibrary.deps.json
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\bin\Debug\net6.0\HelloWorldLibrary.dll
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\bin\Debug\net6.0\HelloWorldLibrary.pdb
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.csproj.AssemblyReference.cache
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.AssemblyInfoInputs.cache
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.AssemblyInfo.cs
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.dll
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\obj\Debug\net6.0\refint\HelloWorldLibrary.dll
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.pdb
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\obj\Debug\net6.0\ref\HelloWorldLibrary.dll
+C:\Users\dt\Desktop\Project\SuperHelloWorld\HelloWorldLibrary\bin\Debug\net6.0\CustomText.json
