@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oVn1Un8LYd0yIuBaO7Pv8T+ZYUYnktzTvH2VC6yqbgJ/EKXcD0tF/LEU/13MQAa+jZXZeK/01u4htWl13Dj6VQ==",
+  "dgSpecHash": "FyXR+b/ttV9viCarsbFIrUn+c90ojydMdD6v88ogQht3hWPmr2ItL9hVK85nk024+XFgnsxPEw5RLhX/hO6h5Q==",
   "success": true,
   "projectFilePath": "H:\\project\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dt\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
