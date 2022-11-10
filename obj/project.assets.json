@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "HelloWorldLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HelloWorldLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelloWorldLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HelloWorldLibrary/1.0.0": {
+      "type": "project",
+      "path": "HelloWorldLibrary/HelloWorldLibrary.csproj",
+      "msbuildProject": "HelloWorldLibrary/HelloWorldLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "HelloWorldLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\dt\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\project\\SuperHelloWorld\\SuperHelloWorld\\SuperHelloWorld.csproj",
+      "projectUniqueName": "H:\\project\\SuperHelloWorld\\SuperHelloWorld.csproj",
       "projectName": "SuperHelloWorld",
-      "projectPath": "H:\\project\\SuperHelloWorld\\SuperHelloWorld\\SuperHelloWorld.csproj",
+      "projectPath": "H:\\project\\SuperHelloWorld\\SuperHelloWorld.csproj",
       "packagesPath": "C:\\Users\\dt\\.nuget\\packages\\",
-      "outputPath": "H:\\project\\SuperHelloWorld\\SuperHelloWorld\\obj\\",
+      "outputPath": "H:\\project\\SuperHelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -40,7 +59,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "H:\\project\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {
+              "projectPath": "H:\\project\\SuperHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

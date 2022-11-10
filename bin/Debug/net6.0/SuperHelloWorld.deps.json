@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "SuperHelloWorld/1.0.0": {
+        "dependencies": {
+          "HelloWorldLibrary": "1.0.0"
+        },
         "runtime": {
           "SuperHelloWorld.dll": {}
+        }
+      },
+      "HelloWorldLibrary/1.0.0": {
+        "runtime": {
+          "HelloWorldLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "SuperHelloWorld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelloWorldLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
